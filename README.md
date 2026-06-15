@@ -26,15 +26,7 @@ Welcome to my GitHub profile! I am a passionate **Computer Science and Engineeri
 
 ---
 
-## 🚀 Featured AI & Data Projects  
-
-### 🌦️ [LangChain Weather Application](https://github.com/Rakesh-sen/weather-app-langchain)
-An intelligent desktop UI built with **Tkinter** and **LangChain Utilities** that securely fetches and analyzes raw real-time global weather diagnostics from the OpenWeatherMap API.
-
-### 🤖 Max - Personal Voice Assistant
-An automated, multi-language desktop companion built using **Python** and generative APIs designed to process voice commands and automate PC workflows.
-
----
+## 🚀 Featured AI & Data Projects also
 
 ## 📉 GitHub Stats  
 
